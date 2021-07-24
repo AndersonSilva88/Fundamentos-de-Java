@@ -4,6 +4,7 @@ public class Aplicacao {
 
 	public static void main(String[] args) {
 		
+		@SuppressWarnings("unused")
 		Object o1 = new Object();
 		Object o2 = new Object();
 		
